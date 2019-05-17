@@ -2,3 +2,6 @@ github URL
 https://github.com/jeromegit/serverless-stack-2-api.git
 
 
+Stripe keys:
+Public: pk_test_9Um9N4ov9nTs0vjXDLYYhRUL00DWGXNDvS
+Secret: sk_test_pR6UdM8bQWxEPx3ufzggVMgM00Z5E60Usr
